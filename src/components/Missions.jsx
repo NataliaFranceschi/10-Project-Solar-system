@@ -12,7 +12,7 @@ class Missions extends React.Component {
           <MissionCard
             name={ name }
             year={ year }
-            coutry={ country }
+            country={ country }
             destination={ destination }
             key={ name }
           />

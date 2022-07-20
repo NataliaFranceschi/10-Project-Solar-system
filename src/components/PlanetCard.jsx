@@ -17,5 +17,5 @@ export default PlanetCard;
 
 PlanetCard.propTypes = {
   planetName: PropTypes.string.isRequired,
-  planetImage: PropTypes.isRequired,
+  planetImage: PropTypes.string.isRequired,
 };
