@@ -1,0 +1,140 @@
+body {
+    background-image: url(./images/background.png);
+    color: white;
+    text-align: center;
+}
+
+.planetas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.missions {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mission-card {
+    border: solid white 2px;
+    border-radius: 6px;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 260px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.mission-name {
+    border-bottom: solid white 2px;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.titles {
+    font-size: 2em;
+    border: solid white 2px;
+    border-radius: 6px;
+    margin: 20px;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+
+.title-solar-system {
+    font-size: 4em;
+}
+
+
+
+.Mercúrio {
+    display: flex;
+    order: 0;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+
+.Mercúrio img{
+    width: 40px;
+}
+
+.Vênus {
+    display: flex;
+    order: 1;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Vênus img {
+    width: 120px;
+}
+
+.Terra {
+    display: flex;
+    order: 2;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Terra img {
+   width: 120px;
+}
+
+.Marte {
+    display: flex;
+    order: 3;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Marte img {
+    width: 60px;
+}
+
+.Júpiter {
+    display: flex;
+    order: 4;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Júpiter img {
+    width: 280px;
+}
+
+.Saturno {
+    display: flex;
+    order: 5;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Saturno img {
+    width: 280px;
+}
+
+.Urano {
+    display: flex;
+    order: 6;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Urano img {
+    width: 150px;
+}
+
+.Netuno {
+    display: flex;
+    order: 7;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.Netuno img {
+    width: 150px;
+}
+
+
