@@ -1,10 +1,14 @@
-# 🚧 README em construção 🚧
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Boas vindas ao repositório do projeto Solar System
+
+Projeto desenvolvido no curso da Trybe ao final do bloco 10* do Módulo 2 - Desenvolvimento Front-end.<br>
+
+<strong>Bloco 10: Introdução à React</strong><br>
+ 10.1.1 - Introdução - React<br>
+ 10.1.2 - 'Hello, world!' no React!<br>
+ 10.2 - Componentes React<br>
+ 10.3 - Projeto - Sistema Solar<br>
+  
+ Primeiro projeto utilizando o React, nele é renderizado os planetas do sistema solar e as missões realizadas em cada um.
+  
+  ![solarSistem](solarSystem.gif)
+
