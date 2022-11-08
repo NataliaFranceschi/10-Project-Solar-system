@@ -9,6 +9,8 @@ Projeto desenvolvido no curso da Trybe ao final do bloco 10* do Módulo 2 - Dese
  10.3 - Projeto - Sistema Solar<br>
   
  Primeiro projeto utilizando o React, nele é renderizado os planetas do sistema solar e as missões realizadas em cada um.
+ 
+ Veja o resultado: https://nataliafranceschi.github.io/10-Project-Solar-system/
   
   ![solarSistem](solarSystem.gif)
 
